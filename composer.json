@@ -69,7 +69,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://nodeload.github.com/schmunk42/jQuery-File-Upload/zipball/5e08d974a080a931dda654086a1391e75cbda99f"
+                "url": "https://nodeload.github.com/schmunk42/jQuery-File-Upload/legacy.zip/5e08d974a080a931dda654086a1391e75cbda99f"
             }
         }
     },{
@@ -129,7 +129,7 @@
                 "reference": "58da4530890b8bc465dff4f72081270453ec20e8"
             },
             "dist": {
-                "url": "https://github.com/yiisoft/yii/zipball/1.1.11",
+                "url": "https://github.com/yiisoft/yii/archive/1.1.11.zip",
                 "type": "zip"
             }
         }
@@ -144,7 +144,7 @@
                 "reference": "b600af63136a8913b192cbe651186f02632c0267"
             },
             "dist": {
-                "url": "https://github.com/yiisoft/yii/zipball/1.1.12",
+                "url": "https://github.com/yiisoft/yii/archive/1.1.12.zip",
                 "type": "zip"
             }
         }
@@ -207,7 +207,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://nodeload.github.com/phundament/yii-user/zipball/7affbb3cef1bd337d3e5f897258561ebb6ea1100"
+                "url": "https://nodeload.github.com/phundament/yii-user/legacy.zip/7affbb3cef1bd337d3e5f897258561ebb6ea1100"
             },
             "require": {
                 "yiisoft/yii": ">=1.1.10"
@@ -219,7 +219,17 @@
             "name": "twitter/bootstrap",
             "version": "2.0.1",
             "dist": {
-                "url": "https://github.com/twitter/bootstrap/zipball/v2.0.1",
+                "url": "https://github.com/twitter/bootstrap/archive/v2.0.1.zip",
+                "type": "zip"
+            }
+        }
+    },{
+        "type": "package",
+        "package": {
+            "name": "twitter/bootstrap",
+            "version": "2.0.3",
+            "dist": {
+                "url": "https://github.com/twitter/bootstrap/archive/v2.0.3.zip",
                 "type": "zip"
             }
         }
@@ -236,10 +246,10 @@
     },{
         "type": "package",
         "package": {
-            "name": "twitter/bootstrap",
-            "version": "2.0.3",
+            "name": "vitalets/yii-bootstrap-editable",
+            "version": "1.0.1",
             "dist": {
-                "url": "https://github.com/twitter/bootstrap/zipball/v2.0.3",
+                "url": "https://nodeload.github.com/schmunk42/yii-bootstrap-editable/zip/dda01eae0742ea89bdba554c5231bb49f0a28287",
                 "type": "zip"
             }
         }
@@ -255,7 +265,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://nodeload.github.com/yiiext/fancybox-widget/zipball/20ed3c25e54a6c990b81f56b6f24e5c34070e725"
+                "url": "https://nodeload.github.com/yiiext/fancybox-widget/legacy.zip/20ed3c25e54a6c990b81f56b6f24e5c34070e725"
             }
         },
             "require": {
@@ -273,7 +283,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://nodeload.github.com/yiiext/lipsum-widget/zipball/f70ab9c91db70775cd17618d4d5d00f07e72d8da"
+                "url": "https://nodeload.github.com/yiiext/lipsum-widget/legacy.zip/f70ab9c91db70775cd17618d4d5d00f07e72d8da"
             }
         },
             "require": {
@@ -291,7 +301,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://nodeload.github.com/yiiext/migrate-command/zipball/79b578ed54cdf6ecaa65db0a496151f7528a7e40"
+                "url": "https://nodeload.github.com/yiiext/migrate-command/legacy.zip/79b578ed54cdf6ecaa65db0a496151f7528a7e40"
             }
         },
             "require": {
@@ -310,7 +320,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/yiiext/swf-object-widget/zipball/v0.1"
+                "url": "https://github.com/yiiext/swf-object-widget/archive/v0.1.zip"
             },
             "require": {
                 "yiisoft/yii": ">=1.1.10"
