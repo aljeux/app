@@ -50,9 +50,6 @@
         "url": "https://github.com/schmunk42/giix.git"
     },{
         "type":"vcs",
-        "url": "https://github.com/schmunk42/awegen.git"
-    },{
-        "type":"vcs",
         "url": "https://github.com/mindplay-dk/jsondoc.git"
     },{
         "type":"vcs",
